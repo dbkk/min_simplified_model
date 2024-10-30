@@ -15,6 +15,8 @@ Simply run
 
 Plot will be in `/plots`.
 
+![Example plot](https://github.com/dbkk/min_simplified_model/blob/main/plots/minD_minE.png)
+
 ## 細胞膜モデル Cell membrane model
 
 First run
@@ -28,3 +30,5 @@ Then run
 code/min_spatial_visualize_mem.py
 ```
 This will make a `.gif` file in `/plots`. 
+
+![Example gif](https://github.com/dbkk/min_simplified_model/blob/main/plots/membrane_example.gif)
