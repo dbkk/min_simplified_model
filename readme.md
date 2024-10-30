@@ -10,7 +10,7 @@
 
 Simulation code for the two-regions model in the textbook.
 
-![Example equations](https://github.com/dbkk/min_simplified_model/blob/main/plots/two_regions_equations.png)
+<img src="https://github.com/dbkk/min_simplified_model/blob/main/plots/two_regions_equations.png" width="50%">
 
 Simply run
 ```
@@ -19,7 +19,7 @@ Simply run
 
 Plot will be in `/plots`.
 
-![Example plot](https://github.com/dbkk/min_simplified_model/blob/main/plots/minD_minE_sim.png)
+<img src="https://github.com/dbkk/min_simplified_model/blob/main/plots/minD_minE_sim.png" width="50%">
 
 ## 細胞膜モデル Cell membrane model
 
