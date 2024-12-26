@@ -4,6 +4,8 @@
 
 [pET28a-msfGFP-MinD-rev (in benchling)](https://benchling.com/s/seq-XDvIopQValuSYi5UeJv0?m=slm-kZW53Hcc6JggocCcs4z5)
 
+[pET29-MinE-mCherry-His (in benchling)](https://benchling.com/s/seq-RITthGqZkVKIZYxX0kvM?m=slm-rHuFEeKrvNf43DbWSKE8)
+
 [ColabFold (AlphaFold2)](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb)
 
 ## 2領域モデル Two-regions model
