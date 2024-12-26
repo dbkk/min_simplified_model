@@ -38,3 +38,8 @@ code/min_spatial_visualize_mem.py
 This will make a `.gif` file in `/plots`.
 
 ![Example gif](https://github.com/dbkk/min_simplified_model/blob/main/plots/membrane_example.gif)
+
+
+## プロットの作り方 How to make plots
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-btn.svg)](https://colab.research.google.com/github/dbkk/min_simplified_model/blob/main/plots_tutorial.ipynb)
