@@ -40,6 +40,6 @@ This will make a `.gif` file in `/plots`.
 ![Example gif](https://github.com/dbkk/min_simplified_model/blob/main/plots/membrane_example.gif)
 
 
-## プロットの作り方 How to make plots
+## プロットの作り方(基本編) How to make plots (the very basics)
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-btn.svg)](https://colab.research.google.com/github/dbkk/min_simplified_model/blob/main/plots_tutorial.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dbkk/min_simplified_model/blob/main/plots_tutorial.ipynb)
