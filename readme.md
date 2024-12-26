@@ -42,4 +42,4 @@ This will make a `.gif` file in `/plots`.
 
 ## プロットの作り方(基本編) How to make plots (the very basics)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dbkk/min_simplified_model/blob/main/plots_tutorial.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dbkk/min_simplified_model/blob/main/tutorial_plots/plots_tutorial.ipynb)
