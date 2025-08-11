@@ -6,13 +6,13 @@
 
 [pET29-MinE-mCherry-His (in benchling)](https://benchling.com/s/seq-RITthGqZkVKIZYxX0kvM?m=slm-rHuFEeKrvNf43DbWSKE8)
 
-[ColabFold (AlphaFold2)](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb)
+[ColabFold (AlphaFold2 implemented in Colab notebook)](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb)
 
-[MinE amino acid sequence](https://benchling.com/s/prtn-U7PdMP16GZIvhtbANB7R?m=slm-5tyCmAqQLLttLuvlPFdi)
+[MinE amino acid sequence (in benchling)](https://benchling.com/s/prtn-U7PdMP16GZIvhtbANB7R?m=slm-5tyCmAqQLLttLuvlPFdi)
 
-[MinEL22R amino acid sequence](https://benchling.com/s/prtn-33K3DwSGeN32sJfg3NZ1?m=slm-yh0X4kZ3oVD9XoyA6y1Q)
+[MinEL22R amino acid sequence (in benchling)](https://benchling.com/s/prtn-33K3DwSGeN32sJfg3NZ1?m=slm-yh0X4kZ3oVD9XoyA6y1Q)
 
-[MinD amino acid sequence](https://benchling.com/s/prtn-0KrVYEcNQfnWNCfYIdd0?m=slm-tZ92WiJ5edtsxN7716v0)
+[MinD amino acid sequence (in benchling)](https://benchling.com/s/prtn-0KrVYEcNQfnWNCfYIdd0?m=slm-tZ92WiJ5edtsxN7716v0)
 
 ## 2領域モデル Two-regions model
 
